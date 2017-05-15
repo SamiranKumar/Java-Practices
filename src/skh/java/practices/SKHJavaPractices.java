@@ -5,6 +5,10 @@
  */
 package skh.java.practices;
 
+import skh.java.practices.Generics.GenericDemo;
+import skh.java.practices.Generics.MyGenericsClass;
+import skh.java.practices.PrimitiveNonPrimitiveType.PrimitiveNonPrimitiveDemo;
+
 /**
  *
  * @author samir
@@ -15,7 +19,20 @@ public class SKHJavaPractices {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        PrimitiveNonPrimitiveDemo primitiveNonPrimitiveDemo = new PrimitiveNonPrimitiveDemo();
+        primitiveNonPrimitiveDemo.demo();
+        
+        
+        GenericDemo genericDemo = new GenericDemo();
+        genericDemo.demo();
+        
+        MyGenericsClass<GenericDemo> class1 = new MyGenericsClass<>();
+        
+       // class1.add(new genericDemo());
+        
+        
+        
     }
     
 }

@@ -1,0 +1,35 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package skh.java.practices.PrimitiveNonPrimitiveType;
+
+/**
+ *
+ * @author samir
+ */
+public class MinMaxRange {
+
+    public static void Example() {
+        System.out.println("byte minimum value  : " + Byte.MIN_VALUE + " and maximum value: " + Byte.MAX_VALUE);
+        
+        System.out.println("short minimum value : " + Short.MIN_VALUE + " and maximum value: " + Short.MAX_VALUE);
+
+        System.out.println("int minimum value   : " + Integer.MIN_VALUE + " and maximum value: " + Integer.MAX_VALUE);
+
+        System.out.println("long minimum value  : " + Long.MIN_VALUE + " and maximum value: " + Long.MAX_VALUE);
+        System.out.println("float minimum value : " + Float.MIN_VALUE + " and maximum value: " + Float.MAX_VALUE);
+        System.out.println("double minimum value: " + Double.MIN_VALUE + " and maximum value: " + Double.MAX_VALUE);
+        System.out.println(s);
+    
+    }
+   static String s = new String("Under the numbers we have\n" +
+"\n" +
+"Byte: -128 to 127\n" +
+"Short: -32,768 to 32,767\n" +
+"Int: -2^31 to 2^31\n" +
+"Long: -2^63 to 2^63 - 1"
+    
+);
+}

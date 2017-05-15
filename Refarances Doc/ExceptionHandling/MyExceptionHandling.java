@@ -3,20 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package skh.java.practices.Annotation;
+package skh.java.practices.ExceptionHandling;
 
 /**
  *
  * @author samir
  */
-
-
-public class CustomAnnotation {
-    @MyCoustomAnnotation(name = "SKH",desc = "SKH is my name short form")
-    public CustomAnnotation(){
-        
-    }
+public class MyExceptionHandling {
+    
 }
-
-
-

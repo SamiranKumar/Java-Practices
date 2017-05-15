@@ -1,0 +1,89 @@
+Java Primitive Data Types
+
+A data type informs the compiler what type of data a variable is permitted to store. Data type declaration should be done when the variable is declared. It is required in Java as Java is a strongly typed language. The data type indicates what possible values that can be assigned to variable and possible operations that can be performed. The language system allocates memory to the variable on the type of data it can hold like an integer or double etc.
+
+String in Java is not a data type. String is a class from java.lang package. String is not a keyword; for that matter no class is a keyword. Strings are used very often in coding like data types.
+
+Java supports 8 data types that can be divided into 4 broad categories.
+
+All data types are keywords. As a rule, all keywords should be written in lowercase. Java does not support unsigned data types; every data type is implicitly signed (except char). "unsigned" is not a keyword of Java. Note that null, true and false are also not keywords.
+
+Whole numbers – byte, short, int, long
+Floating-point numbers – float, double
+Character values – char
+Boolean values – boolean
+DATA TYPE	MEMORY IT TAKES	RANGE OF VALUES ACCEPTED
+byte	1 byte (8 bits)	– 128 to +127 (27 to 27-1)
+short	2 bytes (16 bits)	-32,768 to + 32,767 (215 to 215-1)
+int	4 bytes (32 bits)	-2,147,483,648 to +2,147,483,647 (231 to 231-1)
+long	8 bytes (64 bits)	-9.223372036854776E18 to +9.223372036854775E18 (263 to 263-1)
+float	4 bytes (32 bits)	single-precision. 1.40129846432481707e-45 to 3.40282346638528860e+38 (positive or negative)
+double	8 bytes (64 bits)	double-precision. 4.94065645841246544e-324d to 1.79769313486231570e+308d (positive or negative)
+char	2 bytes (16 bits)	0 to 65,535 (0 to 216-1)
+boolean	1 byte (8 bits)	true or false
+1. Whole Numbers
+In this division, 4 data types exist.
+
+byte
+short
+int
+long
+Following explains the above 4 whole numbers.
+
+byte: It occupies a memory of 1 byte (8-bits). It takes a value within the range of -128 to +127 (both inclusive). Byte data type is mostly used in arrays as byte array.
+
+short: It takes 2 bytes (16 bits) memory. It takes a value within the range of -32,768 to + 32,767 (both inclusive). It is advised to go for short instead of int when the value to store fits into short, to save memory.
+
+int: It holds a memory of 4 bytes (32 bits). The value that can be assigned should with the range of -2,147,483,648 to +2,147,483,647 (both inclusive). This data type is mostly used to store a whole number in Java.
+
+
+ 
+long: It takes a memory of 8 bytes (64 bits). The range of values is -9,223,372,036,854,775,808 to +9,223,372,036,854,775,807. To declare a long data type suffix the literal with l or L; but it is not mandatory in regular coding.
+
+Examples:
+
+byte price = 10;
+short price = 10;
+int price = 10;
+long price = 10L;
+
+As L is not mandatory, it can also assigned as
+
+long price = 10;
+
+Observe, all values are 10 only. To store a 10 value, it is wise to choose byte instead of long.
+
+2. Floating-point Numbers
+There exist two data types in this category – float and double.
+
+float: This data type gives single precision of 32-bit as specified by IEEE 754. The float value must be suffixed with either F or f and is mandatory.
+
+Double: This data type gives double precision of 64-bit as specified by IEEE 754. It is preferred over float where the most precision is required as in currency calculations.
+
+Examples:
+
+double price = 10.5;
+float price = 10.5F;
+or
+float price = 10.5f;
+
+Writing without f, raises compilation error (as in float price = 10.5;)
+
+3. char Data Type
+The char data type is implicitly unsigned as a character in any language is positive by default; there is no negative character. A char value should be put within single quotes (like a string value in double quotes).
+
+char: It occupies 16 bits (2 bytes) of memory. The range of values it can take are 0 to (Unicode value '\u0000') to 65,535 (Unicode value '\uffff').
+
+Examples:
+
+char ch1 = 'A';
+char ch2 = 'a';
+
+4. boolean Data type
+The boolean data type is strange for C/C++ people. The same work of boolean is done in C/C++ using flags. Boolan avoids flags. This data type is used in control structures for validation in if etc. It takes only two values of true or false. A boolean value cannot be casted to any other data type. We say, boolean is incompatible for conversion. Even though, internally boolean takes only one bit of memory, it is expressed as 1 byte as byte is the minimum measurable unit in memory.
+
+Usage of boolean in control structures
+Following program uses boolean variable raining in if structure.
+
+
+The above program uses Byte, Short, Integer, Long, Float and Double classes. These are known as wrapper classes. MIN_VALUE and MAX_VALUE are defined as public, static, final variables in wrapper classes. These variables represent the minimum and maximum values a data type can hold.
