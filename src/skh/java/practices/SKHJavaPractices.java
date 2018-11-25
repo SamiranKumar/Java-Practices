@@ -16,6 +16,14 @@ import skh.java.practices.PrimitiveNonPrimitiveType.PrimitiveNonPrimitiveDemo;
  */
 public class SKHJavaPractices {
 
+    public final static int TYPE_MyCollectionAPI = 1;
+    public final static int TYPE_PrimitiveNonPrimitiveDemo = 2;
+
+
+
+    private final static int TYPE_MODULE = TYPE_MyCollectionAPI;
+
+
     /**
      * @param args the command line arguments
      */
@@ -32,10 +40,33 @@ public class SKHJavaPractices {
         
        // class1.add(new genericDemo());
         */
-        MyCollectionAPI collectionAPI = new MyCollectionAPI();
-        
-        collectionAPI.demo();
+
+
+
+        switch (TYPE_MODULE){
+            case TYPE_MyCollectionAPI:
+                MyCollectionAPI collectionAPI = new MyCollectionAPI();
+                collectionAPI.demo();
+                break;
+
+            case 100:
+
+                break;
+
+            case 1001:
+
+                break;
+        }
+
+
+
         
     }
-    
+
+
+
+
+
+
+
 }
