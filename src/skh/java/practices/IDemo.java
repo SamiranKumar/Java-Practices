@@ -9,6 +9,6 @@ package skh.java.practices;
  *
  * @author samir
  */
-public interface Demo {
-    void demo();
+public interface IDemo {
+    void runDemoCode(int TYPE_MODULE);
 }

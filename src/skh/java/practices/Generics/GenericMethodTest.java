@@ -18,7 +18,7 @@ public class GenericMethodTest {
       }
       System.out.println();
    }
-
+   
    public static void Example( ) {
       // Create arrays of Integer, Double and Character
       Integer[] intArray = { 1, 2, 3, 4, 5 };

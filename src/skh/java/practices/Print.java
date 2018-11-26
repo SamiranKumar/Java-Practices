@@ -8,17 +8,15 @@ package skh.java.practices;
 import java.util.List;
 
 /**
- *
  * @author samir
  */
 public class Print {
-    public static void prinMessage(String message){
+    public static void printMessage(String message) {
         System.out.println(message);
     }
-    
-     public static void prinListMessage(List<String> messageList){
-         
-         for(String s: messageList)
-        System.out.println(s);
+
+    public static void printListMessage(List<String> messageList) {
+        for (String s : messageList)
+            System.out.println(s);
     }
 }

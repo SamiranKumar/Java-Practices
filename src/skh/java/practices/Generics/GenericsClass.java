@@ -9,10 +9,10 @@ package skh.java.practices.Generics;
  *
  * @author samir
  */
-public class MyGenericsClass<T> {
+public class GenericsClass<T> {
     private T t;
 
-//    public MyGenericsClass(T t) {
+//    public GenericsClass(T t) {
 //        new T();
 //    }
     
@@ -24,10 +24,10 @@ public class MyGenericsClass<T> {
       return t;
    }
    
-   public MyGenericsClass<T> getObjectG () { //G is Generics
+   public GenericsClass<T> getObjectG () { //G is Generics
       this.t = t;
       
-      return new MyGenericsClass<T>();
+      return new GenericsClass<T>();
    }
    
 }

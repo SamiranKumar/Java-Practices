@@ -3,18 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package skh.java.practices.PrimitiveNonPrimitiveType;
+package skh.java.practices.Algorithom;
 
-import skh.java.practices.Demo;
+import skh.java.practices.IDemo;
 
 /**
  *
  * @author samir
  */
-public class PrimitiveNonPrimitiveDemo implements Demo{
+public class AlgorithomIDemo implements IDemo {
+   
+
     @Override
-    public void demo(){
-         MinMaxRange.Example();
+    public void runDemoCode(int TYPE) {
+        
     }
-  
 }
