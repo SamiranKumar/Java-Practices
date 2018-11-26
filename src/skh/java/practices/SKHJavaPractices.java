@@ -46,9 +46,8 @@ public class SKHJavaPractices {
                 primitiveNonPrimitiveDemo.runDemoCode(TYPE_PRIMITIVE_NON_PRIMITIVE);
 
                 break;
-                
-        }
 
+        }
 
     }
 
