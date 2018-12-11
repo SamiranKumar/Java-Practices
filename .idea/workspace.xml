@@ -17,16 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SKHJavaPractices.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java">
+      <file leaf-file-name="HashSetExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/HashSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1603#1604#0" expanded="true" />
-                <element signature="e#1620#1621#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="665">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -40,47 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimitiveNonPrimitiveIDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/PrimitiveNonPrimitiveType/PrimitiveNonPrimitiveIDemo.java">
+      <file leaf-file-name="DatastructurAlgorithom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/DatastructurAlgorithom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#298#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModuleType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/ModuleType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="56" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSetExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/HashSetExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Print.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Print.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionAPI.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CollectionAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="-49">
+              <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,29 +59,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/StringExamples/MyStrings.java">
+      <file leaf-file-name="CustomAnnotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/CustomAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinearSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/SearchAlgorithms/LinearSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCustomAnnotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/MyCustomAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericMethodTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericMethodTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetentionAnnotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/RetentionAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyExceptionHandling.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/ExceptionHandling/MyExceptionHandling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/IDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericIDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericIDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="33" selection-start-line="33" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -128,7 +126,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/skh/java/practices/Generics/GenericDemo.java" />
-        <option value="$PROJECT_DIR$/src/skh/java/practices/Generics/GenericMethodTest.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/Demo.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/Collections/HashSetExample.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/Algorithom/AlgorithomIDemo.java" />
@@ -137,8 +134,13 @@
         <option value="$PROJECT_DIR$/src/skh/java/practices/PrimitiveNonPrimitiveType/PrimitiveNonPrimitiveIDemo.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/Print.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/ModuleType.java" />
-        <option value="$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java" />
         <option value="$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/PrimitiveNonPrimitiveType/MinMaxRange.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/Generics/MaximumTest.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/Generics/GenericMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/Annotation/MyCoustomAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/skh/java/practices/Annotation/MyCustomAnnotation.java" />
       </list>
     </option>
   </component>
@@ -153,9 +155,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -179,7 +181,71 @@
               <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
               <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithom" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchAlgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
               <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="ExceptionHandling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="Generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="Networking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="PrimitiveNonPrimitiveType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practices" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Java-Practices" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="StringExamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,14 +368,14 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.01994302" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32905984" />
       <window_info anchor="right" id="Flutter Outline" order="7" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -321,6 +387,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Logcat" order="10" />
@@ -334,14 +401,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/StringExamples/MyStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/IDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericIDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="33" selection-start-line="33" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="19" column="63" lean-forward="true" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-            <element signature="e#1620#1621#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -416,13 +512,6 @@
     <entry file="file://$PROJECT_DIR$/Refarances Doc/Algorithom/SearchAlgorithms/LinearSearch.java" />
     <entry file="file://$PROJECT_DIR$/Refarances Doc/Annotation/CustomAnnotation.java" />
     <entry file="file://$PROJECT_DIR$/Refarances Doc/JUnitTest/MyJUnitTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/JUnitTest/MyJUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-33">
@@ -434,24 +523,13 @@
     <entry file="file://$PROJECT_DIR$/Refarances Doc/Algorithom/SearchAlgorithms/LinearSearch.java" />
     <entry file="file://$PROJECT_DIR$/Refarances Doc/Annotation/CustomAnnotation.java" />
     <entry file="file://$PROJECT_DIR$/Refarances Doc/JUnitTest/MyJUnitTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/DatastructurAlgorithom.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/SearchAlgorithms/LinearSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="266">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -462,17 +540,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/AlgorithomIDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/IDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="152">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericIDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/PrimitiveNonPrimitiveType/MinMaxRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="33" selection-start-line="33" selection-end-line="47" />
+        <state relative-caret-position="312">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -483,17 +561,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/IDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Networking/MyNetworking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Print.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/JUnitTest/MyJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -504,32 +589,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/SKHJavaPractices.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Print.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="171">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/MaximumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericIDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/Juice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/Glass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/t1/Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/t1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/t1/Juice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/java9s/t1/Glass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Generics/GenericMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/RetentionAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/MyCustomAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-            <element signature="e#1620#1621#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/HashSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="665">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Collections/CollectionAPI.java">
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/ExceptionHandling/MyExceptionHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Annotation/CustomAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/AlgorithomIDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/DatastructurAlgorithom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#298#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/skh/java/practices/Algorithom/SearchAlgorithms/LinearSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>

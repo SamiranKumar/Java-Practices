@@ -13,6 +13,7 @@ import skh.java.practices.IDemo;
 import skh.java.practices.Print;
 
 import static skh.java.practices.ModuleType.TYPE_COLLECTION_API_HASH_SET;
+import static skh.java.practices.Print.printMessage;
 
 /**
  * @author samir
@@ -41,15 +42,15 @@ public class CollectionAPI implements IDemo {
             mList.add("a-" + n);
         }
 
-        Print.printMessage("[START]: Before Sorted with HashSet \n");
+        printMessage("[START]: Before Sorted with HashSet \n");
         Print.printListMessage(mList);
-        Print.printMessage("\n[END]: Before Sorted with HashSet \n");
+        printMessage("\n[END]: Before Sorted with HashSet \n");
 
         List<String> mList1 = HashSetExample.addElement(mList);
 
-        Print.printMessage("[START]: After Sorted with HashSet \n");
+        printMessage("[START]: After Sorted with HashSet \n");
         Print.printListMessage(mList1);
-        Print.printMessage("\n[END]: After Sorted with HashSet \n");
+        printMessage("\n[END]: After Sorted with HashSet \n");
 
         HashSetExample.addElementDemo();
     }

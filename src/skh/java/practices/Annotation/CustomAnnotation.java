@@ -12,7 +12,7 @@ package skh.java.practices.Annotation;
 
 
 public class CustomAnnotation {
-    @MyCoustomAnnotation(name = "SKH",desc = "SKH is my name short form")
+    @MyCustomAnnotation(name = "SKH",desc = "SKH is my name short form")
     public CustomAnnotation(){
         
     }

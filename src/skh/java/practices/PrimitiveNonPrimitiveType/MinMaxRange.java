@@ -5,6 +5,8 @@
  */
 package skh.java.practices.PrimitiveNonPrimitiveType;
 
+import static skh.java.practices.Print.printMessage;
+
 /**
  *
  * @author samir
@@ -12,16 +14,16 @@ package skh.java.practices.PrimitiveNonPrimitiveType;
 public class MinMaxRange {
 
     public static void Example() {
-        System.out.println("byte minimum value  : " + Byte.MIN_VALUE + " and maximum value: " + Byte.MAX_VALUE);
-        
-        System.out.println("short minimum value : " + Short.MIN_VALUE + " and maximum value: " + Short.MAX_VALUE);
+        printMessage("byte minimum value  : " + Byte.MIN_VALUE + " and maximum value: " + Byte.MAX_VALUE);
 
-        System.out.println("int minimum value   : " + Integer.MIN_VALUE + " and maximum value: " + Integer.MAX_VALUE);
+        printMessage("short minimum value : " + Short.MIN_VALUE + " and maximum value: " + Short.MAX_VALUE);
 
-        System.out.println("long minimum value  : " + Long.MIN_VALUE + " and maximum value: " + Long.MAX_VALUE);
-        System.out.println("float minimum value : " + Float.MIN_VALUE + " and maximum value: " + Float.MAX_VALUE);
-        System.out.println("double minimum value: " + Double.MIN_VALUE + " and maximum value: " + Double.MAX_VALUE);
-        System.out.println(s);
+        printMessage("int minimum value   : " + Integer.MIN_VALUE + " and maximum value: " + Integer.MAX_VALUE);
+
+        printMessage("long minimum value  : " + Long.MIN_VALUE + " and maximum value: " + Long.MAX_VALUE);
+        printMessage("float minimum value : " + Float.MIN_VALUE + " and maximum value: " + Float.MAX_VALUE);
+        printMessage("double minimum value: " + Double.MIN_VALUE + " and maximum value: " + Double.MAX_VALUE);
+        printMessage(s);
     
     }
    static String s = new String("Under the numbers we have\n" +

@@ -5,6 +5,8 @@
  */
 package skh.java.practices.Generics;
 
+import static skh.java.practices.Print.printMessage;
+
 /**
  *
  * @author samir
@@ -25,13 +27,13 @@ public class GenericMethodTest {
       Double[] doubleArray = { 1.1, 2.2, 3.3, 4.4 };
       Character[] charArray = { 'H', 'E', 'L', 'L', 'O' };
 
-      System.out.println("Array integerArray contains:");
+      printMessage("Array integerArray contains:");
       printArray(intArray);   // pass an Integer array
 
-      System.out.println("\nArray doubleArray contains:");
+      printMessage("\nArray doubleArray contains:");
       printArray(doubleArray);   // pass a Double array
 
-      System.out.println("\nArray characterArray contains:");
+      printMessage("\nArray characterArray contains:");
       printArray(charArray);   // pass a Character array
    }
 }

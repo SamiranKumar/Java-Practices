@@ -9,7 +9,7 @@ package skh.java.practices.Annotation;
  *
  * @author samir
  */
-public @interface MyCoustomAnnotation{  
+public @interface MyCustomAnnotation {
 //Annotations are created by using @ sign, folled by the keyword interface
     String name();
     String desc();
