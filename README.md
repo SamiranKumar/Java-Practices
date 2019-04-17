@@ -1,2 +1,3 @@
-# Java-Practices.
-My regular Practices on Java :)
+# Core Java,Java-8 
+# collection api, Data Structure, Algorithm
+# Genaric, Anotation
